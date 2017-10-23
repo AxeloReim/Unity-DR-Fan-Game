@@ -1,0 +1,1015 @@
+fileFormatVersion: 2
+guid: bfbc77d66dc25c3409fd7b48253b66ee
+timeCreated: 1508310045
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC Computer - MapleStory - CBD Background_0
+    21300002: PC Computer - MapleStory - CBD Background_1
+    21300004: PC Computer - MapleStory - CBD Background_2
+    21300006: PC Computer - MapleStory - CBD Background_3
+    21300008: PC Computer - MapleStory - CBD Background_4
+    21300010: PC Computer - MapleStory - CBD Background_5
+    21300012: PC Computer - MapleStory - CBD Background_6
+    21300014: PC Computer - MapleStory - CBD Background_7
+    21300016: PC Computer - MapleStory - CBD Background_8
+    21300018: PC Computer - MapleStory - CBD Background_9
+    21300020: PC Computer - MapleStory - CBD Background_10
+    21300022: PC Computer - MapleStory - CBD Background_11
+    21300024: PC Computer - MapleStory - CBD Background_12
+    21300026: PC Computer - MapleStory - CBD Background_13
+    21300028: PC Computer - MapleStory - CBD Background_14
+    21300030: PC Computer - MapleStory - CBD Background_15
+    21300032: PC Computer - MapleStory - CBD Background_16
+    21300034: PC Computer - MapleStory - CBD Background_17
+    21300036: PC Computer - MapleStory - CBD Background_18
+    21300038: PC Computer - MapleStory - CBD Background_19
+    21300040: PC Computer - MapleStory - CBD Background_20
+    21300042: PC Computer - MapleStory - CBD Background_21
+    21300044: PC Computer - MapleStory - CBD Background_22
+    21300046: PC Computer - MapleStory - CBD Background_23
+    21300048: PC Computer - MapleStory - CBD Background_24
+    21300050: PC Computer - MapleStory - CBD Background_25
+    21300052: PC Computer - MapleStory - CBD Background_26
+    21300054: PC Computer - MapleStory - CBD Background_27
+    21300056: PC Computer - MapleStory - CBD Background_28
+    21300058: PC Computer - MapleStory - CBD Background_29
+    21300060: PC Computer - MapleStory - CBD Background_30
+    21300062: PC Computer - MapleStory - CBD Background_31
+    21300064: PC Computer - MapleStory - CBD Background_32
+    21300066: PC Computer - MapleStory - CBD Background_33
+    21300068: PC Computer - MapleStory - CBD Background_34
+    21300070: PC Computer - MapleStory - CBD Background_35
+    21300072: PC Computer - MapleStory - CBD Background_36
+    21300074: PC Computer - MapleStory - CBD Background_37
+    21300076: PC Computer - MapleStory - CBD Background_38
+    21300078: PC Computer - MapleStory - CBD Background_39
+    21300080: PC Computer - MapleStory - CBD Background_40
+    21300082: PC Computer - MapleStory - CBD Background_41
+    21300084: PC Computer - MapleStory - CBD Background_42
+    21300086: PC Computer - MapleStory - CBD Background_43
+    21300088: PC Computer - MapleStory - CBD Background_44
+    21300090: PC Computer - MapleStory - CBD Background_45
+    21300092: PC Computer - MapleStory - CBD Background_46
+    21300094: PC Computer - MapleStory - CBD Background_47
+    21300096: PC Computer - MapleStory - CBD Background_48
+    21300098: PC Computer - MapleStory - CBD Background_49
+    21300100: PC Computer - MapleStory - CBD Background_50
+    21300102: PC Computer - MapleStory - CBD Background_51
+    21300104: PC Computer - MapleStory - CBD Background_52
+    21300106: PC Computer - MapleStory - CBD Background_53
+    21300108: PC Computer - MapleStory - CBD Background_54
+    21300110: PC Computer - MapleStory - CBD Background_55
+    21300112: PC Computer - MapleStory - CBD Background_56
+    21300114: PC Computer - MapleStory - CBD Background_57
+    21300116: PC Computer - MapleStory - CBD Background_58
+    21300118: PC Computer - MapleStory - CBD Background_59
+    21300120: PC Computer - MapleStory - CBD Background_60
+    21300122: PC Computer - MapleStory - CBD Background_61
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7023
+        width: 1013
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_1
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 7023
+        width: 201
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 6735
+        width: 841
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_3
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 6569
+        width: 220
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 6568
+        width: 440
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_5
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 6568
+        width: 409
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 6185
+        width: 79
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 6185
+        width: 79
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_8
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 6186
+        width: 95
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_9
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 6184
+        width: 245
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_10
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 6185
+        width: 123
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_11
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 6186
+        width: 293
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_12
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 5662
+        width: 105
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_13
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 5663
+        width: 105
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 5663
+        width: 126
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_15
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 5663
+        width: 326
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_16
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 5662
+        width: 164
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_17
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 5266
+        width: 60
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 5106
+        width: 330
+        height: 413
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_19
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 5107
+        width: 118
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_20
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 5106
+        width: 117
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 5107
+        width: 141
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 4653
+        width: 366
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_23
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 4654
+        width: 184
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_24
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 4653
+        width: 178
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_25
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 4653
+        width: 276
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_26
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 4323
+        width: 216
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_27
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 4323
+        width: 193
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_28
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 4323
+        width: 236
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_29
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 4323
+        width: 268
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_30
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3896
+        width: 1177
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_31
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3779
+        width: 895
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_32
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 3652
+        width: 215
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_33
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 3667
+        width: 215
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_34
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 3670
+        width: 247
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_35
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3527
+        width: 667
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3270
+        width: 180
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_37
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 3270
+        width: 180
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_38
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 3270
+        width: 180
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_39
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3132
+        width: 273
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_40
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 3132
+        width: 273
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_41
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 3132
+        width: 273
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_42
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 2986
+        width: 273
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_43
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2986
+        width: 273
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_44
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 2986
+        width: 273
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_45
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2834
+        width: 273
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_46
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 2834
+        width: 273
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_47
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 2834
+        width: 273
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_48
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1502
+        width: 1291
+        height: 1279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_49
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1595
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_50
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1708
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_51
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1649
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_52
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1633
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_53
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1543
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_54
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 319
+        width: 1293
+        height: 1137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_55
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 203
+        width: 70
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_56
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 239
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_57
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 175
+        width: 88
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_58
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 78
+        width: 93
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_59
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 57
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_60
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 96
+        width: 87
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - CBD Background_61
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 26
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
