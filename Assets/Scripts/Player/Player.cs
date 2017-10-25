@@ -10,6 +10,7 @@ public class Player : MonoBehaviour {
     Rigidbody2D rigid;
 
     public Component[] boxCollider2DChild;
+
     public float speed;
     public bool canMove;
     public bool invincibleFrame;
@@ -212,6 +213,7 @@ public class Player : MonoBehaviour {
                 Destroy(gameObject);
             }
         }
+
         if (collision.gameObject.tag == "Ground" || collision.gameObject.tag == "Enemy" || collision.gameObject.tag == "Obstacle")
         {
             isJump = false;
