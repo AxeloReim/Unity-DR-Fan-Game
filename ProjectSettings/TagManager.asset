@@ -10,6 +10,11 @@ TagManager:
   - Obstacle
   - Flying Enemy
   - Blockade
+  - Enemy Attack
+  - Boss
+  - Pause
+  - GameOver
+  - Win
   layers:
   - Default
   - TransparentFX
@@ -23,7 +28,7 @@ TagManager:
   - Blockade
   - Player
   - Enemy
-  - 
+  - Projectile
   - 
   - 
   - 
