@@ -19,7 +19,8 @@ public class Player : MonoBehaviour {
     public Image[] hp;
     public Text[] pause;
     public Image[] panel;
-    public Image[] button;
+    public Image[] GameOverButton;
+    public Image[] WinButton;
     public Text[] GameOver;
     public Text[] Win;
     public int maxHp;
@@ -237,6 +238,17 @@ public class Player : MonoBehaviour {
                 hp[i].gameObject.SetActive(false);
             }
         }
+
+        if (currHp < 1)
+        {
+            canMove = false;
+            spriteRenderer.enabled = true;
+            hp[0].gameObject.SetActive(false);
+            anim.Play("Death");
+            Time.timeScale = 0;
+            ShowFinished();
+            invincibleFrame = false;
+        }
     }
 
     void EnableChildComponent()
@@ -279,9 +291,9 @@ public class Player : MonoBehaviour {
         {
             GameOver[i].gameObject.SetActive(true);
         }
-        for(int i = 0; i <= button.Length -1; i++)
+        for(int i = 0; i <= GameOverButton.Length -1; i++)
         {
-            button[i].gameObject.SetActive(true);
+            GameOverButton[i].gameObject.SetActive(true);
         }
     }
 
@@ -291,9 +303,9 @@ public class Player : MonoBehaviour {
         {
             GameOver[i].gameObject.SetActive(false);
         }
-        for (int i = 0; i <= button.Length - 1; i++)
+        for (int i = 0; i <= GameOverButton.Length - 1; i++)
         {
-            button[i].gameObject.SetActive(false);
+            GameOverButton[i].gameObject.SetActive(false);
         }
     }
 
@@ -303,6 +315,10 @@ public class Player : MonoBehaviour {
         {
             Win[i].gameObject.SetActive(true);
         }
+        for (int i = 0; i <= WinButton.Length -1; i++)
+        {
+            WinButton[i].gameObject.SetActive(true);
+        }
     }
 
     void HideWin()
@@ -310,6 +326,10 @@ public class Player : MonoBehaviour {
         for (int i = 0; i <= Win.Length - 1; i++)
         {
             Win[i].gameObject.SetActive(false);
+        }
+        for (int i = 0; i <= WinButton.Length - 1; i++)
+        {
+            WinButton[i].gameObject.SetActive(false);
         }
     }
 
@@ -326,15 +346,7 @@ public class Player : MonoBehaviour {
                 currHp--;
             }
 
-            if(currHp < 1)
-            {
-                canMove = false;
-                hp[0].gameObject.SetActive(false);
-                anim.Play("Death");
-                Time.timeScale = 0;
-                ShowFinished();
-                invincibleFrame = false;
-            }
+            
         }
 
         if (collision.gameObject.tag == "Ground" || collision.gameObject.tag == "Enemy" || collision.gameObject.tag == "Obstacle")
